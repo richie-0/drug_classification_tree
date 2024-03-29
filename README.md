@@ -1,6 +1,6 @@
 ## Drug Classification Model
 
-A Jupyter Notebook (`drug_classification.ipynb`) showcasing the development of a drug classification model using machine learning techniques. The dataset used (`drug200.csv`) contains information about patients including their age, sex, blood pressure, cholesterol level, sodium-to-potassium ratio, and the drug type they were prescribed.
+A Jupyter Notebook on drug classification using machine learning techniques such as decision trees and random forest classifiers. The dataset used (`drug200.csv`) contains information about patients including their age, sex, blood pressure, cholesterol level, sodium-to-potassium ratio, and the drug type they were prescribed.
 
 ## Installation
 
