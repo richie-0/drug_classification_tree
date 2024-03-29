@@ -59,4 +59,4 @@ A Jupyter Notebook on drug classification using machine learning techniques such
 
 ### Note:
 
-- This Jupyter Notebook is just practise using a dataset from kaggle
+- This Jupyter Notebook is just practise using a dataset from [Kaggle](https://imbalanced-learn.org/stable/install.html).
